@@ -25,7 +25,6 @@ function BtnComponent(props) {
                   onClick={props.reset}>Reset</button>
         </div> : ""
       }
-     
     </div>
   );
 }
